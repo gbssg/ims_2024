@@ -9,3 +9,5 @@ Schon als ich noch in die Grundschule ging, interessierte ich mich für Technik.
 Außerdem bin ich oft schon mit anderen, nicht gamingbezogenen Projekten in Kontakt gekommen. Ich habe bereits ein wenig mit Python programmiert, insbesondere mit TkInter.
 
 ## warum Informatik?
+
+
