@@ -13,7 +13,7 @@ Heute bin ich teilweise als Lehrer im Informatikbereich tätig, teilweise helfe 
 - 2011: Abschluss als BSc FHO in System Engineering with specialization in Computer Science (schrecklich sperriger Titel ;-))
 - 2015: Abschluss als MSc FHO in Engineering with specialization in industrial technologies - Natürlich auch hier wieder mit dem Schwerpunkt Computer Science.
 - 2021: CAS Lehrer der höheren Fachschule/BKU im Nebenberuf
-- seit 2024 DSG Fachlehrer BKU Vollzeit
+- seit 2024: Diplomstudiengang zum Berufskunde-Fachlehrer in Vollzeit
 
 ### Mein Motto
 
