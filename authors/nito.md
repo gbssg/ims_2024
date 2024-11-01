@@ -14,7 +14,7 @@ Ich habe die Prüfung bestanden und bin jetzt hier.
 Mir macht es spass zu programmieren.
 Herauszufinden wie ich einen Fehler fixen kann fordert mich heraus.
 
-### Meine Ausbildungsschritte
+### Meine Ausbildungsschrittew
 
 - 2014 Abschluss Kindergarten
 - 2020 Abschluss Primarschule
@@ -38,7 +38,7 @@ Ich bin ein Gewinner!
 - [Roblox](https://www.roblox.com/users/282713886/profile)
 
 ## Hallo Welt in meinen Lieblingsprachen
-Diesen Code habe ich natürlich selber geschireben und habe es nicht mit ctrl c, ctrl v von Herr Niederer kopiert (:
+Diesen Code habe ich natürlich selber geschireben und nicht mit ctrl c, ctrl v von Herr Niederer kopiert (:
 
 ```c
 #include <stdio.h>
