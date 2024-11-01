@@ -14,7 +14,7 @@ Ich habe die Prüfung bestanden und bin jetzt hier.
 Mir macht es spass zu programmieren.
 Herauszufinden wie ich einen Fehler fixen kann fordert mich heraus.
 
-### Meine Ausbildungsschrittew
+### Meine Ausbildungsschritte
 
 - 2014 Abschluss Kindergarten
 - 2020 Abschluss Primarschule
