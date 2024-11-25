@@ -43,7 +43,7 @@ Diesen Code habe ich natürlich selber geschireben und nicht mit ctrl c, ctrl v 
 ```c
 #include <stdio.h>
 
-int main(void) {
+int main() {
     printf("God dag verden!");
 
     return 0;
