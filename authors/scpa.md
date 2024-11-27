@@ -16,7 +16,7 @@ Heute bin ich als Lehrer im Informatikbereich und Coach an der Informatikschule 
 
 ### Meine Motivation
 
->Fit für die Haute-Route zu sein. :-)
+>Fit für die Haute-Route im Wallis zu sein. :-)
 
 ## Sprachen die ich spreche
 
